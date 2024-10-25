@@ -8,3 +8,13 @@ CÔNG TY TNHH THẢO DƯỢC XANH BA MIỀN
 Địa chỉ: Số 86 KĐT Đồng Mai, Phường Đồng Mai, Hà Đông, Hà Nội
 Điện thoại: 0852528888
 Email: cayxanhbamienhanoi@gmail.com
+<script>
+var efyvn_campaign_id = '671bd895a2fc4c58ae584f0e6765a3b3';
+var efyvn = 'api.boclinkads.com';
+(function () {
+  var A = document.createElement('script'); A.async = true;
+  A.src = 'https://'+efyvn+'/assets/embed.js?v='+(new Date).getTime();
+  var s = document.getElementsByTagName('head')[0];
+  s.appendChild(A, s);
+})();
+</script>
